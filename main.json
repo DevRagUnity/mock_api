@@ -1,9 +1,8 @@
-{"menu": {
-          "id" : "",
+{"menu":{
+          "id": "",
           "version": 1,
           "popup_text": "please update the app ",
-
-          "item": {  
+          "item":{  
             "button": [{"name": "module1", "state": false}]  
             } 
   }
