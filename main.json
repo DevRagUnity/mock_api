@@ -1,5 +1,9 @@
-{"menu":
-  {
+{
+    "item":{ 
+      "id": "bq",
+      "version" : 1,
+      "popupText":"*******"
+    },
     "btn": [{"name": "module1", "state": false}]  
-  }
+
 }
