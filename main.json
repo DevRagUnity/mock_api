@@ -1,9 +1,5 @@
-{"menu":{
-          "id": "BQ",
-          "version": 1,
-          "popup_text": "please update the app ",
-          "item":{  
-            "btn": [{"name": "module1", "state": false}]  
-            } 
+{"menu":
+  {
+    "btn": [{"name": "module1", "state": false}]  
   }
 }
