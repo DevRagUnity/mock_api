@@ -2,7 +2,7 @@
     "item":{ 
       "id": "bq",
       "version" : 1,
-      "popupText":"*******"
+      "popupText":" please reach out to conEd VR team ConEdisonVR@gmail.com "
     },
     "btn": [{"name": "module14", "state": false}]  
 
