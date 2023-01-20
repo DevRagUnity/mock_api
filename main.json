@@ -4,6 +4,6 @@
       "version" : 1,
       "popupText":"*******"
     },
-    "btn": [{"name": "module1", "state": false}]  
+    "btn": [{"name": "module4_1", "state": false}]  
 
 }
